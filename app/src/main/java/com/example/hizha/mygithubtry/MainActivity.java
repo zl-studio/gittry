@@ -12,7 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        TextView textView = findViewById(R.id.firsttv1);
+        TextView textView = findViewById(R.id.firsttv2);
+
+        TextView textView1 = findViewById(R.id.firsttv1);
 
 
     }
