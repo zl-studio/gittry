@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView textView = findViewById(R.id.firsttv2);
 
-        TextView textView1 = findViewById(R.id.firsttv1);
+        TextView textViewabc = findViewById(R.id.firsttv1);
 
 
     }
